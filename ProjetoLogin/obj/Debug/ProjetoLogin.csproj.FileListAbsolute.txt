@@ -1,0 +1,12 @@
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentação.BemVindo.resources
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentação.CadastreSe.resources
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Sandr\source\repos\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
